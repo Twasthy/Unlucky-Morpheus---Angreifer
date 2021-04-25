@@ -1,0 +1,28 @@
+﻿FormatVersion: 7
+Name: "ScytheTrail 1"
+Script: "ScytheTrail"
+Config:
+  SpritePath:
+    Type: "System.String"
+    Value: "sb/Flare.png"
+  StartTime:
+    Type: "System.Int32"
+    Value: "416927"
+  EndTime:
+    Type: "System.Int32"
+    Value: "421291"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  91f5a568144c4fb48324b20668524fb3:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  e1a29538c867483889c46c42d778ff76:
+    Name: "foreground"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

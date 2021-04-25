@@ -1,0 +1,25 @@
+﻿FormatVersion: 7
+Name: "HitObjectRing 6"
+Script: "HitObjectRing"
+Config:
+  StartTime:
+    Type: "System.Int32"
+    Value: "416382"
+  EndTime:
+    Type: "System.Int32"
+    Value: "416995"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  062ccd33fa8f4bc7b64bf2256fb3f42e:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  56267f79f9684041a6b36f4fec755d68:
+    Name: "foreground"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
